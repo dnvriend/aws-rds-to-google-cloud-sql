@@ -122,6 +122,7 @@ Great!
 ## Restore to AWS MySQL Aurora
 I have created a mysql aurora, lets see if we can restore that database as well.
 
+```
 $ mysql \
   --host=dnvriend-aurora-mysql.czvsstshhhca.eu-central-1.rds.amazonaws.com \
   --port=3306 \
